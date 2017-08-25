@@ -2,9 +2,9 @@
 
 # compiled output
 /compiled
-/dist
+#/dist
 /docs
-/out-ngc
+#/out-ngc
 /tmp
 
 # dependencies
